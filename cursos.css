@@ -1,0 +1,106 @@
+main {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+main h1 {
+  width: 100%;
+}
+
+main section:nth-of-type(2) {
+  flex: 1;
+  padding: 8px 10px;
+}
+
+main section:nth-of-type(3) {
+  width: 100%;
+}
+
+.sobre-curso {
+  background-color: black;
+  border: 1px solid grey;
+  border-radius: 28px 27px 27px 27px;
+  color: white;
+  flex: 0 0 65%;
+  padding: 8px 10px;
+}
+
+.sec {
+  color: white;
+}
+
+.sobre-curso h2 {
+  margin: 0;
+}
+.sobre-curso p {
+  text-align: justify;
+}
+
+strong {
+  color: white;
+}
+
+.investimento thead {
+  background-color: black;
+  color: white;
+}
+
+.investimento tbody {
+  background-color: black;
+  color: white;
+}
+
+.investimento del {
+  color: grey;
+}
+
+.investimento ins {
+  color: rgb(33, 197, 183);
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.matriz-curricular {
+  color: white;
+  list-style: none;
+  padding: 0;
+}
+
+.matriz-curricular ul {
+  background-color: black;
+  display: none;
+  list-style: none;
+  font-weight: normal;
+  border: 1px solid grey;
+  border-radius: 28px 27px 27px 27px;
+  margin: 0;
+  margin-top: 5px;
+  padding: 0;
+}
+
+.matriz-curricular > li {
+  background-color: black;
+  cursor: pointer;
+  font-weight: bold;
+  text-indent: 10px;
+  padding: 5px 0;
+}
+
+.matriz-curricular > li.ativo {
+  background-color: black;
+  font-weight: bolder;
+}
+
+.matriz-curricular > li.ativo ul {
+  display: block;
+}
+
+.matriz-curricular ul > li {
+  border-bottom: 1px solid black;
+  padding: 8px 5px;
+  cursor: text;
+}
+
+.matriz-curricular ul > li:hover {
+  border-color: white;
+}
