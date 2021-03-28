@@ -1,0 +1,53 @@
+.premios {
+  border-bottom: 1px solid black;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.premios h2 {
+  width: 100%;
+}
+
+.premio {
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  margin: 8px 0;
+  padding: 15px 10px;
+  text-align: center;
+  width: 500px;
+  box-shadow: 1px 1px #1fc5d1, 2px 2px #1fc5d1, 3px 3px #1fc5d1;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-3px);
+}
+
+.premio h2,
+.premio h3 {
+  margin: 0;
+}
+
+.premio h3 {
+  color: white;
+}
+
+.smartclass {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.smartclass h2 {
+  width: 100%;
+}
+
+.smartclass p {
+  flex: 0 0 50%;
+}
+
+.smartclass img {
+  order: 1;
+  width: 350px;
+}
