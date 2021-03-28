@@ -1,0 +1,18 @@
+.sobre {
+  border-bottom: 1px solid white;
+  color: white;
+}
+
+.sobre p {
+  text-align: justify;
+}
+
+.empresa {
+  text-align: center;
+  color: white;
+}
+
+.lista-valores {
+  list-style: none;
+  color: white;
+}
