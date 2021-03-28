@@ -1,12 +1,6 @@
-<div align="center" id="top"> 
-	![imagem impacta](https://user-images.githubusercontent.com/65466044/112742254-507f8200-8f63-11eb-908c-ccd577b19270.PNG)
+![imagem impacta](https://user-images.githubusercontent.com/65466044/112742254-507f8200-8f63-11eb-908c-ccd577b19270.PNG)
 
-  <img src="github/app.gif" alt="Projeto Impacta" />
 
-  &#xa0;
-
-  <!-- <a href="https://projetoimpacta.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Projeto Impacta</h1>
 
