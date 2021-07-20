@@ -41,16 +41,8 @@ The following tools were used in this project:
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## :checkered_flag: Starting ##
 
-```bash
-# Clone this project
-$ git clone https://github.com/tecnologias-web/catalogo-cursos-frontend
 
-# Access
-$ cd projeto-impacta
-
-```
 
 ## :memo: License ##
 
